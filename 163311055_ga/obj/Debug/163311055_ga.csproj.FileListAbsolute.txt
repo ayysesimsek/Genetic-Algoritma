@@ -1,0 +1,30 @@
+C:\Users\Mrs Engineer\source\repos\163311055_ga\bin\Debug\163311055_ga.exe.config
+C:\Users\Mrs Engineer\source\repos\163311055_ga\bin\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\source\repos\163311055_ga\bin\Debug\163311055_ga.pdb
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\163311055_ga.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\_163311055_ga.Properties.Resources.resources
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\163311055_ga.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\163311055_ga.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\163311055_ga.pdb
+C:\Users\Mrs Engineer\source\repos\163311055_ga\obj\Debug\_163311055_ga.UIGAMain.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\bin\Debug\163311055_ga.exe.config
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\bin\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\bin\Debug\163311055_ga.pdb
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\163311055_ga.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\_163311055_ga.UIGAMain.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\_163311055_ga.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\163311055_ga.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\163311055_ga.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\Desktop\YZ ÖDEV\163311055_AyseSimsek\163311055_ga\obj\Debug\163311055_ga.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\bin\Debug\163311055_ga.exe.config
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\bin\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\bin\Debug\163311055_ga.pdb
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\163311055_ga.csprojAssemblyReference.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\_163311055_ga.UIGAMain.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\_163311055_ga.Properties.Resources.resources
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\163311055_ga.csproj.GenerateResource.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\163311055_ga.csproj.CoreCompileInputs.cache
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\163311055_ga.exe
+C:\Users\Mrs Engineer\Desktop\Yapay Zeka-C#-Tasarım Desenleri - ÖDEVLERİ\AYŞE ŞİMŞEK\Yapay Zeka\163311055_AyseSimsek_AStar_GA\163311055_ga\obj\Debug\163311055_ga.pdb
